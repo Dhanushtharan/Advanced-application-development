@@ -1,4 +1,4 @@
-package com.example.birthdayback;
+package com.example.boatApplication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
