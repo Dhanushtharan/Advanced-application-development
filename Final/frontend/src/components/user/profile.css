@@ -1,0 +1,48 @@
+.container {
+    background: #f4f4f4;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 500px;
+    font-size:25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .body1 {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .form11 {
+    margin-top: 20px;
+    left:20px;
+    display: flex;
+    flex-direction: column;
+margin-left: 20px;
+
+  }
+  
+  .label1 {
+    margin-right: 10px;
+  }
+  
+  .input1 {
+    /* Add your input styles here */
+  }
+  
+  .display {
+    margin-top: 20px;
+  }
+  
+  .p1 {
+    /* Add your paragraph styles here */
+  }
+  
+  .buttonx {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+  }
+  
